@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: The Rose Project
+draft: false
+tags:
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# Welcome to The Rose Project.
+This is where the body goes.
